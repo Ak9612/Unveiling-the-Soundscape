@@ -1,7 +1,4 @@
-Project Title:
-Data Symphony: Exploring Musical Trends through ISM, Thematic, and Sentiment Analysis
-
-Project Description
+#Project Description
 This project investigates the transformative impact of big data and Internet technologies on the music industry. It specifically examines how modern music companies, like Shazam and Spotify, leverage big data to remain competitive. The study explores both the benefits and drawbacks of adopting digital business models within the music industry, providing insights into market strategies, artist development, and revenue generation through big data analytics. The study aims to evaluate the impact of big data and Internet technologies on the music industry. It employs a qualitative research design, focusing on case studies of Shazam and Spotify to illustrate the utilization of big data. The analysis includes methods such as ISM (Interpretive Structural Modeling), MICMAC analysis, and bibliometric tools like VoSViewer and Biblioshiny, with statistical analysis performed using JMP.
 
 Key Findings
