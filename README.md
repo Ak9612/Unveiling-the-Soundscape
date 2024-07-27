@@ -16,7 +16,7 @@ This project investigates the transformative impact of big data and Internet tec
 **Analysis Tools**  
 - **ISM and MICMAC:** For mapping and analyzing key factors and their interdependencies.
 - **VoSViewer and Biblioshiny:** For bibliometric analysis and network visualization.
-- **JMP:** For detailed statistical analysis.
+- **JMP:** For detailed statistical and sentiment analysis.
 
 **Principal Observations**  
 - Big data significantly enhances marketing tactics, artist development, and revenue generation.
